@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">WorkoutApp</string>
     <string name="just_do_it">Just do it</string>
+    <string name="just">JUST DO IT</string>
 </resources>
